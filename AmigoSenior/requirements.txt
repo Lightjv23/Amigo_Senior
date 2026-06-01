@@ -1,0 +1,4 @@
+flask
+sqlite3
+langchain_groq
+load_dotenv
