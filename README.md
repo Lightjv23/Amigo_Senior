@@ -178,8 +178,6 @@ A solidão em idosos está associada a diversos problemas de saúde física e me
 | **Privacidade** | 🟢 Média | 🔴 Baixa* | 🟢 Alta | 🟢 Média |
 | **Facilidade** | ✅ Simples | ✅ Simples | 🟡 Complexa | ✅ Simples |
 
-*OpenAI pode usar dados para treinamento (verificar configuração)
-
 ### Stack Tecnológico
 
 ```
@@ -513,50 +511,3 @@ python app.py
 - ✅ **Session IDs**: Único por usuário (localStorage)
 - ⚠️ **TLS**: Implementar em produção
 - ⚠️ **Rate Limiting**: Adicionar proteção contra abuse
-
----
-
-## 📈 Melhorias Futuras
-
-- [ ] Implementar RAG com documentos sobre saúde para idosos
-- [ ] Adicionar análise de sentimento das conversas
-- [ ] Integrar with reminders e agendamentos
-- [ ] Suporte a múltiplos idiomas
-- [ ] Dashboard para cuidadores/familiares
-- [ ] Integração com wearables (monitorar bem-estar)
-- [ ] Fine-tuning em dataset de conversas com idosos
-- [ ] Chain-of-Thought para resolução de problemas
-
----
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Por favor:
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/melhoria`)
-3. Commit suas mudanças (`git commit -am 'Adiciona X'`)
-4. Push para a branch (`git push origin feature/melhoria`)
-5. Abra um Pull Request
-
----
-
-## 📜 Licença
-
-Este projeto é licenciado sob a MIT License - veja o arquivo LICENSE para detalhes.
-
----
-
-## 👨‍💻 Desenvolvedor
-
-**Lightjv23** - Desenvolvedor e Pesquisador em IA para Bem-estar Social
-
----
-
-## 📞 Suporte
-
-Para dúvidas ou sugestões, abra uma issue no GitHub ou entre em contato através das discussões do repositório.
-
----
-
-**Amigo Sênior** - Tecnologia com Coração 💜
